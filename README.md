@@ -20,3 +20,26 @@ Soy un estudiante interesado en el mundo de la tecnología y el desarrollo de ap
 ## 😄 Datos curiosos
 - Me gusta aprender haciendo
 - Estoy comenzando en el mundo del desarrollo
+
+# 🐶 PetPass
+
+## 📱 Descripción
+PetPass es una aplicación móvil diseñada para gestionar información de mascotas de forma sencilla y ordenada.
+
+## 🚀 Funcionalidades
+- Visualización de mascotas
+- Navegación entre secciones
+- Interfaz amigable
+
+## 🛠️ Tecnologías usadas
+- Kotlin
+- Android Studio
+- GitHub
+
+## ▶️ Cómo usar
+1. Abrir la aplicación
+2. Navegar por las secciones
+3. Visualizar información de mascotas
+
+## 👨‍💻 Autor
+Pato
